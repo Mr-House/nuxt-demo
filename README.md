@@ -1,4 +1,4 @@
-# nuxt-framework
+# nuxt-demo
 
 > My flawless Nuxt.js project
 
